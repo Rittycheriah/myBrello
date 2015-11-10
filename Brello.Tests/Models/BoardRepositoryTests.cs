@@ -1,10 +1,10 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Brello.Models;
 using Moq;
-using System.Data.Entity;
 using System.Collections.Generic;
 using System.Linq;
+using Brello.Models;
+using System.Data.Entity;
 
 namespace Brello.Tests.Models
 {
